@@ -1,3 +1,7 @@
+Link for this Project - https://imvinoth1820.github.io/udemy-clone/
+
+
+
 Welcome to my Udemy Clone project – a responsive and visually engaging replica of the popular online learning platform. This project is crafted with HTML and CSS, ensuring a seamless user experience on all devices. The integration of captivating animations enhances the overall design, creating an immersive and interactive learning environment.
 Features
 Responsive Design: Experience the project's full functionality on any device, ensuring a user-friendly learning journey.
